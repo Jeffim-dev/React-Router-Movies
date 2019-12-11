@@ -46,6 +46,7 @@ body {
 .saved-active {
   color: blue;
   border: 1px solid grey;
+  text-decoration: none;
   padding: 5px;
 }
 .save-wrapper {
